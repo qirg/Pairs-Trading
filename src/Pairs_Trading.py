@@ -28,7 +28,7 @@ NOTES:
 '''
 
 
-quandl.ApiConfig.api_key = 'whatevery your key is'
+quandl.ApiConfig.api_key = 'your key'
 quandl.ApiConfig.api_version = '2015-04-09'
 
 
